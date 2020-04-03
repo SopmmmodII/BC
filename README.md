@@ -9,4 +9,3 @@
 ![8](https://github.com/SopmmmodII/BC/blob/master/8.png)
 ![9](https://github.com/SopmmmodII/BC/blob/master/9.png)
 ![10](https://github.com/SopmmmodII/BC/blob/master/10.png)
-![11](https://github.com/SopmmmodII/BC/blob/master/11.png)
